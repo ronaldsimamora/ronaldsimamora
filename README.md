@@ -14,3 +14,12 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+Perkenalkan nama saya **Ronald Simamora**.\
+Saya seorang yang menyenangi pemprogramman.
+
+Saya memiliki channel Youtube
+(https://www.youtube.com/c/RonaldSimamora)
+
+Bantu subscribe ya.
+Terima kasih
