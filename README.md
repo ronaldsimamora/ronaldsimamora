@@ -22,11 +22,11 @@ Saya memiliki channel Youtube
 (https://www.youtube.com/c/RonaldSimamora)
 
 Bantu subscribe ya.
-Terima kasih
+Terima kasih.
 
-    <p align="left">
-    <a href="https://github.com/ronaldsimamora">
+<p align="left">
+<a href="https://github.com/ronaldsimamora">
       <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=ronaldsimamora&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
       <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=ronaldsimamora&layout=compact&langs_count=8&theme=algolia"/>
     </a>
-    </p>
+</p>
